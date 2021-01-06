@@ -5275,6 +5275,11 @@ globby@^6.1.0:
     pify "^2.0.0"
     pinkie-promise "^2.0.0"
 
+goals-todos-api@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/goals-todos-api/-/goals-todos-api-1.0.0.tgz#1086716697ad41b519b899a55e050773d98ffbff"
+  integrity sha512-mrKMYU7VCtz4a6K1Ba1CKxuNuyrnw0OyiMOgORm2p5WR1FvCA5JOOc3nBhEYgZFN2AEmnUSU/tmh0JmNJremlA==
+
 graceful-fs@^4.1.11, graceful-fs@^4.1.15, graceful-fs@^4.1.2, graceful-fs@^4.1.6, graceful-fs@^4.2.0, graceful-fs@^4.2.4:
   version "4.2.4"
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.4.tgz#2256bde14d3632958c465ebc96dc467ca07a29fb"
